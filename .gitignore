@@ -1,0 +1,7 @@
+*.class
+gen
+out
+# Package Files #
+*.war
+*.ear
+
